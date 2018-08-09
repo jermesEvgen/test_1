@@ -5,11 +5,18 @@ body {
 .wrapper {
 	width: 700px;
 	margin: 0 auto;
+	border: 2px solid red;
+	padding: 1em;
 }
 h1 {
 	font-size: 60px; 
 }
 ul{
 	font-family: 'Arial', sans-serif;
-    font-weight: normal;	
+    font-weight: normal;
+    background-color: #EF3325;
+    color: #fff;
+    padding: 2em;
+    line-height: 1.7; 
+    border-radius: 10px; 	
 }
